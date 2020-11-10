@@ -7,10 +7,10 @@ output: html_document
 ```
 
 Check out the [About Me](About.html) section
+^ This is how you link other pages to your main index page
 
-blah blah 
 
-This is me! (need to be two lines down for it to be on its own line)
 
-<img src= "APutnam.jpeg" width="50%">
+<center><img src= "APutnam.jpeg" width="50%"> </center>
+
 

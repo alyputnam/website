@@ -3,4 +3,7 @@ title: "About"
 output: html_document
 ---
 
-I'm Aly!
+
+<img src= "APutnam.jpeg" width="40%">
+
+Hi! I am Aly! I am a Marine Ecologist, passionate about the ocean, species interactions, and how various aspects of climate change play a part in dynamic marine systems and interactions. As well, I am enthusiastic about STEM education, diversity/equity/inclusion in STEM fields, and supporting women in STEM. I am a first generation college student and am the first of my family to pursue a career in science. I started my academic journey as a community college student where I studied Biology at Holyoke Community College and then transferred to Smith College as an Ada Comstock Scholar with a family and two children in tow. Additionally, I completed a Masters of Science at Smith College where I focused on Biology and Marine Ecology and explored competitive interactions between two New England rocky intertidal marine gastropod species and how predation by invasive crabs impact these interactions. I am currently pursuing my PhD in Organismic and Evolutionary Biology at UMASS Amherst where I focus on climate change and marine systems: how a warming ocean will impact  predator-prey interactions between American lobster and Black sea bass and how sea level rise will impact intertidal marine biodiversity on the islands in Boston Harbor.
